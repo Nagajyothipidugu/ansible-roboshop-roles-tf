@@ -1,0 +1,1 @@
+MONGODB_HOST: "mongodb-{{ env }}.devaws46.online"
