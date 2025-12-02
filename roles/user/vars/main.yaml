@@ -1,2 +1,2 @@
-REDIS_HOST: redis-{{env}}.devaws46.online 
-MONGODB_HOST: mongodb-{{env}}.devaws46.online
+REDIS_HOST: redis-{{ env }}.devaws46.online 
+MONGODB_HOST: mongodb-{{ env }}.devaws46.online

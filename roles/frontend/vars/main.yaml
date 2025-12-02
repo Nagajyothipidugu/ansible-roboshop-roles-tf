@@ -1,5 +1,5 @@
-CATALOGUE_HOST: catalogue.devaws46.online
-USER_HOST: user.devaws46.online 
-CART_HOST: cart.devaws46.online
-SHIPPING_HOST: shipping.devaws46.online
-PAYMENT_HOST: payment.devaws46.online
+CATALOGUE_HOST: catalogue.backened-{{ env }}.devaws46.online
+USER_HOST: user.backened-{{ env }}.devaws46.online 
+CART_HOST: cart.backened-{{ env }}.devaws46.online
+SHIPPING_HOST: shipping.backened-{{ env }}.devaws46.online
+PAYMENT_HOST: payment.backened-{{ env }}.devaws46.online
