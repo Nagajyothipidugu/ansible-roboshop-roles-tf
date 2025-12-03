@@ -1,5 +1,5 @@
 CART_HOST: cart.backend-{{ env }}.devaws46.online
 USER_HOST: user.backend-{{ env }}.devaws46.online
-RABBITMQ_HOST: rabbitmq.devaws46.online
+RABBITMQ_HOST: rabbitmq-{{ env }}.devaws46.online
 RABBITMQ_USER: roboshop
 RABBITMQ_PASSWORD: roboshop123
